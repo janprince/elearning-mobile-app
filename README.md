@@ -1,16 +1,7 @@
 # elearning_app
+Elearning mobile application UI with flutter
 
-A new Flutter project.
+## User Interface
+!["Elearning mobile platform"](https://cdn.dribbble.com/users/118309/screenshots/14591830/media/6f516f54dfa2390d85aa5df65267d8d3.png?compress=1&resize=1600x1200&vertical=top)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Credits: UI design by YesYou on [Dribbble](https://dribbble.com/shots/14591830-eLearning-Platform-Mobile-App)
